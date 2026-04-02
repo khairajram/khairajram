@@ -24,6 +24,7 @@
 
 ## Languages and Tools:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+https://skillicons.dev/icons?i=react,nodejs,mongodb,cpp,aws,docker
 
 ---
 
