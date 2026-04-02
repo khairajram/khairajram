@@ -1,20 +1,35 @@
-- 👋 Hi, I’m @khairajram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-----
-Contributions to
-# Project Title
+# 👋 Hi, I'm Khairaj Ram
 
-![GitHub Repo stars](https://img.shields.io/github/stars/khairajram/my-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/khairajram/my-repo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/khairajram/my-repo)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/khairajram/my-repo)
-![GitHub license](https://img.shields.io/github/license/khairajram/my-repo)
-![GitHub last commit](https://img.shields.io/github/last-commit/khairajram/my-repo)
+🚀 MERN Stack Developer
+💡 Passionate about building real-world web applications
 
-<!---
-khairajram/khairajram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠 Tech Stack
+
+* Frontend: React, Next.js, Tailwind CSS
+* Backend: Node.js, Express
+* Database: MongoDB,SQL,Postgresql
+* Tools: Git, Docker (learning)
+
+---
+
+## 📌 Projects
+
+* 🧠 Brainly – Save and organize useful content
+* 💬 Real-time Chat App (WebSocket)
+* 🏥 Medical Shop Web App (Next.js)
+
+---
+
+## 🌱 Currently Learning
+
+* System Design
+* Advanced Backend (Scalability)
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: linkedin.com/in/khairaj-ram
+* Portfolio: khairaj.vercel.app
